@@ -18,7 +18,7 @@ use to run the program directly on your Windows Computer.
 However if you're someone who knows their way around, you can install the required modules using the "requirements.txt" 
 file and run the program on your ide
 
-## Find bug?
+## Find a bug?
 If you come across a bug, feel free to submit using the tab above.
 
 
