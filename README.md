@@ -12,13 +12,13 @@ This is an exrtremely simple GUI program I built with Python using, ttkbootstrap
 <img src="image.png">
 
 ### How to Install
-If you're something who isn't tech savvy there is "Text-Morse Converter.exe" file which you can 
+If you're someone who isn't tech savvy, there is "Text-Morse Converter.exe" file which you can 
 use to run the program directly on your Windows Computer.
 
 However if you're someone who knows their way around, you can install the required modules using the "requirements.txt" 
 file and run the program on your ide
 
-## Find a bug?
+## Found a bug?
 If you come across a bug, feel free to submit using the tab above.
 
 
